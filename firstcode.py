@@ -1,4 +1,4 @@
 import sys
 import time
 
-print("Hello Kimberly Lim")
+print("Good day & hello Kimberly Lim")
